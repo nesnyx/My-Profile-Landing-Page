@@ -1,0 +1,31 @@
+.slider h3,
+.slider h5,
+.contact,
+.ukuran {
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.5); 
+}
+
+.parallax-container {
+    height: 50%;
+}
+
+.parallax h3 {
+    text-shadow: 3px 3px 3px rgba(0,0,0,0.5); 
+}
+
+.parallax img {
+    filter: grayscale(1);
+}
+
+.ukuran {
+    font-size: 2rem;
+}
+
+section {
+    padding: 20px 0;
+}
+
+.about {
+    background-color: rgb(206, 253, 253);
+}
+
